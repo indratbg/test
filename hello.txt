@@ -1,1 +1,1 @@
-asasasasasasass
+Ini adalah file hello.txt
